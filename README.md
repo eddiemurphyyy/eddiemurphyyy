@@ -1,5 +1,5 @@
 - 👋 Oi, Eu sou @eddiemurphyyy
-- 👀 Meu Email de contato @escola.pr.gov.br
+- 👀 Meu Email de contato luiz.ricardo.santos@escola.pr.gov.br
 - 🌱 Estou interessado em aprender a programar novas linguagens
 - 💞️ Aprendendo a programar recentemente a linguagem do scratch
 
